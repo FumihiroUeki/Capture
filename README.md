@@ -1,5 +1,5 @@
 # ros_opencv  
-ROS kinetic と opencvを使用して青色の物体の検出をするものです。  
+ROS と opencvを使用して青色の物体の検出をするものです。  
   
 # How to use  
 $cd catkin_ws/src  
